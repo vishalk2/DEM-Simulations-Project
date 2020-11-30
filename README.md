@@ -9,6 +9,10 @@ The Repo consists of -
   3. Y-Shape CAD model
   4. Project Report
 
-Here is a small glimpse (gif) of one of the velocity analysis simulations performed on Three Particle/CAE software:
+Here is a small glimpse (gif) of one of the particle mixing simulation performed on Three Particle/CAE software:
 
-![Velocitycontour](https://user-images.githubusercontent.com/68963724/100435094-72571e00-30c3-11eb-9aaa-d3046d903fed.gif)
+![Videomixing2](https://user-images.githubusercontent.com/68963724/100575319-d9621600-3301-11eb-8d52-1238d822dd7d.gif)
+
+Here is a small glimpse (gif) of the velocity analysis of above simulation performed on Three Particle/CAE software:
+
+![Videovelocity2](https://user-images.githubusercontent.com/68963724/100575369-f0086d00-3301-11eb-8ed9-9a4492efc241.gif)
